@@ -1,7 +1,7 @@
 # ANÁLISIS DE LAS TEMPERATURAS HISTÓRICAS EN ESPAÑA   
 ## _Investigación exploratoria del mundo (España)_
 
-¿Nos debería preocupar el aumto de las temperaturas en el mundo y, especialmente, en España? ¿Cómo es la tendencia desde que hay datos? ¿Cómo es la tendencia en los últimos años? ¿Es cierto que las temperaturas suben tanto como dicen? Pues sí y no. El problema reside en que cada vez que se escribe una noticia se coge el valor de crecimiento más alto (entre la tasa de crecimiento de las temperaturas máximas anuales o de las mínimas anuales). En los últimos 126 años (desde 1897) las máximas han subido de media 1,18ºC y las mínimas 0,39ºC.
+¿Nos debería preocupar el aumto de las temperaturas en el mundo y, especialmente, en España? ¿Cómo es la tendencia desde que hay datos? ¿Cómo es la tendencia en los últimos años? ¿Es cierto que las temperaturas suben tanto como dicen? Pues sí y no. El problema reside en que cada vez que se escribe una noticia se coge el valor de crecimiento más alto (entre la tasa de crecimiento de las temperaturas máximas anuales o de las mínimas anuales). **En los últimos 126 años (desde 1897) las máximas han subido de media 1,18ºC y las mínimas 0,39ºC.**
 
 
 ![plot](temp.png)
