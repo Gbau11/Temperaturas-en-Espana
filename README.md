@@ -3,7 +3,9 @@
 
 ¿Nos debería preocupar el aumto de las temperaturas en el mundo y, especialmente, en España? ¿Cómo es la tendencia desde que hay datos? ¿Cómo es la tendencia en los últimos años? ¿Es cierto que las temperaturas suben tanto como dicen? Pues sí y no. El problema reside en que cada vez que se escribe una noticia se coge el valor de crecimiento más alto (entre la tasa de crecimiento de las temperaturas máximas anuales o de las mínimas anuales). En los últimos 126 años (desde 1897) las máximas han subido de media 1,18ºC y las mínimas 0,39ºC.
 
+
 ![plot](temp.png)
+
 
 ### Descripción:
 
@@ -25,5 +27,6 @@ En primer lugar, cabe destacar la dificultad añadida de realizar este estudio. 
 Podemos observar que en verano y primavera, las temperaturas medias de cada año descienden ligeramente o se mantienen. En otoño e invierno las temperaturas sí que suben de manera más marcada.
 
 Por último, realicé un gráfico de las medias globales por año y, efectivamente, las temperaturas están subiendo. Este gráfico lo representa: 
+
 
 ![plot](temp2.png)
